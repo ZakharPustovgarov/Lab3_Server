@@ -1,0 +1,15 @@
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\bin\Debug\netcoreapp3.1\Lab3_Server.exe
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\bin\Debug\netcoreapp3.1\Lab3_Server.deps.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\bin\Debug\netcoreapp3.1\Lab3_Server.runtimeconfig.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\bin\Debug\netcoreapp3.1\Lab3_Server.runtimeconfig.dev.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\bin\Debug\netcoreapp3.1\Lab3_Server.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\bin\Debug\netcoreapp3.1\Lab3_Server.pdb
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\bin\Debug\netcoreapp3.1\Utility.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\obj\Debug\netcoreapp3.1\Lab3_Server.csproj.AssemblyReference.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\obj\Debug\netcoreapp3.1\Lab3_Server.AssemblyInfoInputs.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\obj\Debug\netcoreapp3.1\Lab3_Server.AssemblyInfo.cs
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\obj\Debug\netcoreapp3.1\Lab3_Server.csproj.CoreCompileInputs.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\obj\Debug\netcoreapp3.1\Lab3_Server.csproj.CopyComplete
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\obj\Debug\netcoreapp3.1\Lab3_Server.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\obj\Debug\netcoreapp3.1\Lab3_Server.pdb
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Server\Lab3_Server\obj\Debug\netcoreapp3.1\Lab3_Server.genruntimeconfig.cache
